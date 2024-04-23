@@ -1,5 +1,8 @@
 import java.util.Scanner;
-
+/*
+4 (code) Directed or undirected [10 points] Write a program that takes a matrix of size n x n as input and
+determines whether that matrix is the representation of a directed graph.
+ */
 public class DirectedGraphChecker {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
